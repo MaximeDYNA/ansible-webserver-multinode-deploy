@@ -78,5 +78,3 @@ The goal is to demonstrate the provisioning and configuration of a basic web app
 - [Maxime DYNA](https://github.com/MaximeDYNA)
 
 ## 📄 License
-
-This project is licensed under the MIT License.
