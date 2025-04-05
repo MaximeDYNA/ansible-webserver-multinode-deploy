@@ -1,0 +1,22 @@
+# Ignore Vagrant directories and VM files
+.vagrant/
+*.vmwarevm/
+*.vbox/
+*.ovf
+*.box
+.vagrant.d/
+
+# Ignore Ansible cache and temporary files
+ansible/.vagrant/
+ansible/tmp/
+ansible/*.retry
+
+# Ignore log and temporary files
+*.log
+*.swp
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
